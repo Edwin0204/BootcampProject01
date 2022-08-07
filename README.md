@@ -6,6 +6,9 @@ The application is designed to provide users with information about the weather,
 Users will create a profile with their gender, an inventory of their clothes, and their preferences.
 Recommendations will be given based on the inventory, user information, and weather information either in their home location or their travel destination.
 
+<img width="950" alt="wardrobe assistant" src="https://user-images.githubusercontent.com/99764345/183270959-bf30dac2-19d5-4f8c-b528-aa1f69e1b481.PNG">
+
+
 ## User Story
 
 GIVEN I require knowledge of the weather and the clothes appropriate for it
